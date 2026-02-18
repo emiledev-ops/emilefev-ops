@@ -1,102 +1,50 @@
-# 👩🏻‍💻 _**Êmile Ferreira**_
+<div align="center">
 
-🎓 Estudante de Tecnologia em Logística Integrada — FATEC Jundiaí  
-💻 Desenvolvedora em formação  
-🚀 Em evolução para me tornar Desenvolvedora Júnior 
+# 👩🏻‍💻 **Êmile Ferreira de Oliveira**
 
-**`Desenvolvedora FullStack`**
-Olá mundo,me chamo Êmile Ferreira de Oliveira, tenho 20 anos e sou natural de Jundiaí. Atualmente, estou cursando Gestão de Logística Integrada na FATEC Jundiaí. Sou apaixonada por tecnologia, com foco em resolução de problemas, análise de dados e desenvolvimento de soluções. Tenho perfil analítico, organizado e orientado a resultados, com forte interesse em programação, tecnologia, inovação e construção de projetos práticos.
- 
-Atualmente estou construindo minha jornada para atuar profissionalmente como desenvolvedora e me tornar referência na área de tecnologia.
+🎓 Estudante de **Tecnologia em Logística Integrada — FATEC Jundiaí**  
+💻 Desenvolvedora FullStack em formação  
+🚀 Evoluindo para **Desenvolvedora Júnior** | 20 anos | Jundiaí-SP  
 
-    </a> 
-    <a href="https://github.com/emiledev-ops?tab=stars">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://github.com/emiledev-ops?tab=stars"
-        />
-    </a>
-    <a href="https://github.com/emiledev-ops">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://github.com/emiledev-ops"
-        />
-    </a>
-</p>
+**`Apaixonada por tecnologia, resolução de problemas, análise de dados e projetos práticos.`**
+
+Sou analítica, organizada e orientada a resultados. Atualmente construindo portfólio para atuar como dev fullstack e ser referência na área!
+
+</div>
+
+## 🤖 **Linguagens e Tecnologias**
+Em estudo e prática:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## ✨ **Projetos em Destaque**
+Aqui vai a progressão que recrutadores amam: de básico a fullstack!
+
+### 1. **To-Do List Profissional** (HTML/CSS/JS + localStorage)
+- CRUD completo: adicionar/editar/excluir/marcar concluída.
+- Filtros, dark mode, design responsivo glassmorphism.
+
+**Mais vindo: Sistema Login (Firebase), API PHP/Python, Fullstack Trello-like!** 🚀
+
+## 📈 **GitHub Activity**
+[![Snake Animation](https://github-readme-stats.vercel.app/api?username=[SEU-USERNAME]&show_icons=true&theme=radical)] [web:29]
+
+## 📫 **Entre em Contato**
+- 📧 **emileferreira.dev@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/êmile-ferreira-de-oliveira-ab8383262)
+- 📍 Caieiras - Jundiaí, SP, Brasil
+
+**Aberta a vagas júnior fullstack!** Me chame para colaborações ou oportunidades. 😊
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-Atualmente estudando
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-</p>
+<div align="center">
+Feito com ❤️ pela Êmile
+</div>
