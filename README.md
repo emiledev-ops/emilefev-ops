@@ -33,9 +33,6 @@ Aqui vai a progressão que recrutadores amam: de básico a fullstack!
 
 **Mais vindo: Sistema Login (Firebase), API PHP/Python, Fullstack Trello-like!** 🚀
 
-## 📈 **GitHub Activity**
-[![Snake Animation](https://github-readme-stats.vercel.app/api?username=[SEU-USERNAME]&show_icons=true&theme=radical)] [web:29]
-
 ## 📫 **Entre em Contato**
 - 📧 **emileferreira.dev@gmail.com**
 - 💼 [LinkedIn](https://linkedin.com/in/êmile-ferreira-de-oliveira-ab8383262)
