@@ -24,7 +24,7 @@ Em estudo e prática:
 
 ### 1. **NeuroCodeAI, um projeto que une Inteligência Artificial ** (HTML • CSS • JavaScript • Integração com IA)
 - Código:(https://github.com/emiledev-ops/NeuroCodeAI.git)
-- Site: (https://lnkd.in/dxSubQf5)
+- Site: (https://emiledev-ops.github.io/NeuroCodeAI/)
 - 💡 O que o projeto faz: 
 • Responde perguntas através de IA
 • Gera formas geométricas animadas
