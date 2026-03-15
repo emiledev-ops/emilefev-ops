@@ -22,7 +22,7 @@ Em estudo e prática:
 
 ## ✨ **Projetos em Destaque**
 
-### 1. **NeuroCodeAI, um projeto que une Inteligência Artificial ** (HTML • CSS • JavaScript • Integração com IA)
+### 1. NeuroCodeAI, um projeto que une Inteligência Artificial  (HTML • CSS • JavaScript • Integração com IA)
 - Código:(https://github.com/emiledev-ops/NeuroCodeAI.git)
 - Site: (https://emiledev-ops.github.io/NeuroCodeAI/)
 - 💡 O que o projeto faz: 
@@ -30,7 +30,6 @@ Em estudo e prática:
 • Gera formas geométricas animadas
 • Cria experiências visuais a partir de comandos
 
-**Mais vindo: Sistema Login (Firebase), API PHP/Python, Fullstack Trello-like!** 🚀
 
 ## 📫 **Entre em Contato**
 - 📧 **emileferreira.dev@gmail.com**
